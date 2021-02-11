@@ -1,1 +1,13 @@
 sssfsf
+
+git status
+git add .
+git status
+git commit -m "first"
+git push origin master
+git checkout -b new
+git status
+git add .
+git push origin new
+
+git pull origin master
